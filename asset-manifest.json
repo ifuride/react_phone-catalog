@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ebb4139d.chunk.css",
+    "main.js": "./static/js/main.dd910af3.chunk.js",
+    "main.js.map": "./static/js/main.dd910af3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.2f912333.chunk.js": "./static/js/2.2f912333.chunk.js",
+    "static/js/2.2f912333.chunk.js.map": "./static/js/2.2f912333.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ebb4139d.chunk.css.map": "./static/css/main.ebb4139d.chunk.css.map",
+    "static/js/2.2f912333.chunk.js.LICENSE.txt": "./static/js/2.2f912333.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/ShopByCategory.scss": "./static/media/category-tablets.51782e18.png",
+    "static/media/ProductDetails.scss": "./static/media/redHeart.b9b57e69.svg",
+    "static/media/BackButton.scss": "./static/media/leftArrow.93fa3479.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.2f912333.chunk.js",
+    "static/css/main.ebb4139d.chunk.css",
+    "static/js/main.dd910af3.chunk.js"
+  ]
+}
